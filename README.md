@@ -1,2 +1,2 @@
 Site web snt 
-Luka Nicodeme et Salomé Guyot
+Luka Nicodeme, Salomé Guyot et Tao Deshayes
