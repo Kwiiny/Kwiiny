@@ -11,7 +11,7 @@ body .page{
     margin: 20px 80px;
 }
 /* Barre de navigation */
-nav{
+nav {
     display: flex;
     flex-wrap:wrap;
     justify-content: space-between;
@@ -77,25 +77,34 @@ Header h1{
 /* Fin header */
 
 /* Footer */
-footer h1{
+section h1{
     margin-left: 70px;
 }
-footer p{
+section p{
    text-decoration: none;
    color: #fff;
    margin-left: 100px;
    font-size: 20px;
    margin-right: 300px;
 }
-footer p .VSC{
+section p .VSC{
     text-decoration: none;
     color: darkslategray;
  }
-img .FXJ{
-    max-width: 60%;
-    max-height: 60%;
+ .FEX {
+    height:500px
+   }
+   img {
+    width: auto; 
+    max-height: 100%; 
+   }
+   .dtype{
+    border: solid black 3px;
+    background-color: black;
+    padding: 8px;
+    }
+.OCH{
+    height: 75px;
 }
 
-
  /* Fin footer */
-
